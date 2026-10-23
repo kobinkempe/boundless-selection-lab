@@ -1,5 +1,9 @@
 # bound.less Selection Feedback Lab
 
+## Public demo
+
+[Open the live demo](https://kobin-ai-portfolio.kobinkempe.chatgpt.site/boundless-selection-lab/) · [Read the case study](https://kobin-ai-portfolio.kobinkempe.chatgpt.site/case-studies/boundless-selection-lab/)
+
 An interactive design study of selection feedback on an infinite canvas, where an object may be smaller than a pixel, thinner than its outline, or larger than the whole viewport.
 
 ![Selection feedback experiment](docs/screenshots/desktop.jpg)
