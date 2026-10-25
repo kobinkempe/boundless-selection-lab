@@ -1,0 +1,26 @@
+{
+  "repository": "https://github.com/kobinkempe/bound.less-kk",
+  "upstream_paths": {
+    "experiments/clamped-frame.html": "design-system/components/selection/clamped-frame.html",
+    "experiments/corner-ticks.html": "design-system/components/selection/corner-ticks.html",
+    "experiments/marching-ants.html": "design-system/components/selection/marching-ants.html",
+    "experiments/object-shimmer.html": "design-system/components/selection/object-shimmer.html",
+    "experiments/overview.html": "design-system/components/selection/overview.html",
+    "experiments/tint-edge-marks.html": "design-system/components/selection/tint-edge-marks.html",
+    "experiments/ants-measure.html": "tools/harnesses/ants-measure.html"
+  },
+  "snapshot_sha256": {
+    "experiments/clamped-frame.html": "1b392164167aa248dffabff509dc9f1e26527bb619a6314c39408b029c227b41",
+    "experiments/corner-ticks.html": "1f5c863f88712e5ffed3f8eccf0dce7e9cf85439da0be9fc1d9b75f5c96e4436",
+    "experiments/marching-ants.html": "dc436e44f29a43672eb512b8facb7fea4122e43389cbb08e76e2188f8e669ce7",
+    "experiments/object-shimmer.html": "14fc9b46c4a504b07a068534f329cd0621e92b3094b29b32ee65983769462c77",
+    "experiments/overview.html": "d3129dc2cf1deb04f331cf5df97130203f353c71681d6600fbfd11cc1ad49f90",
+    "experiments/tint-edge-marks.html": "12a1fdba8a4a4efa2db3cc38b3640f0d8ce682a431823cedde7542985a9f8ec9",
+    "experiments/ants-measure.html": "6e342e0383454018a0828fa4ad3ef1ebe421691bea52a22f6e27c269db79e087"
+  },
+  "adaptations": [
+    "Added a standalone navigation page and README.",
+    "Removed optional Google Fonts imports so the HTML experiments work offline; retained shared scene geometry."
+  ],
+  "hash_scope": "Hashes identify the included standalone files after the listed adaptations; they are not a claim of byte identity with an upstream revision."
+}

@@ -30,4 +30,8 @@ The pages explore feedback presence, coverage, visual weight, motion and scale. 
 
 This complements the bound.less renderer with product judgment: translate a difficult geometry constraint into understandable interaction alternatives, then make those alternatives easy to inspect. AI assisted the prototyping process; no model runs inside the demo.
 
-The portfolio copy adds a landing page and removes optional network font imports so the experiments work locally. Existing scene geometry remains intact. Static references and JavaScript syntax are checked, and the live page is inspected in Chrome. [Publication review](PUBLICATION_REVIEW.md).
+The portfolio copy adds a landing page and removes optional network font imports so the experiments work locally. Existing scene geometry remains intact. Static references and JavaScript syntax are checked, and the live page is inspected in Chrome.
+
+## Source
+
+Extracted from [bound.less](https://github.com/kobinkempe/bound.less-kk). `PROVENANCE.json` maps the included experiments to their upstream paths and records the standalone snapshot hashes and adaptations.
