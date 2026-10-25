@@ -1,10 +1,14 @@
 # bound.less Selection Feedback Lab
 
+**A UX prototyping lab for showing what is selected when a drawing object is too small, too thin or too large for an ordinary selection box.**
+
+In [bound.less](https://github.com/kobinkempe/bound.less-kk), an object can be smaller than a pixel or larger than the whole viewport. Its box may be off screen, or a thick highlight may hide the detail being selected. I wanted to compare ways of keeping selection understandable across those extremes.
+
+AI helped prototype alternative indicators on shared scenes, so I could judge their coverage, visual weight, motion and clarity. Try marching ants, a clamped frame, corner ticks, object shimmer and tint with edge marks on the same difficult shapes. These are design studies used to inform product decisions.
+
 ## Public demo
 
 [Open the live demo](https://kobin-ai-portfolio.kobinkempe.chatgpt.site/boundless-selection-lab/) · [Read the case study](https://kobin-ai-portfolio.kobinkempe.chatgpt.site/case-studies/boundless-selection-lab/)
-
-An interactive design study of selection feedback on an infinite canvas, where an object may be smaller than a pixel, thinner than its outline, or larger than the whole viewport.
 
 ![Selection feedback experiment](docs/screenshots/desktop.jpg)
 
