@@ -8,7 +8,7 @@ AI helped prototype alternative indicators on shared scenes, so I could judge th
 
 ## Public demo
 
-[Open the live demo](https://kobin-ai-portfolio.kobinkempe.chatgpt.site/boundless-selection-lab/) · [Read the case study](https://kobin-ai-portfolio.kobinkempe.chatgpt.site/case-studies/boundless-selection-lab/)
+[Open the live lab](https://kobinkempe.pages.dev/boundless-selection-lab/) · [Read the case study](https://kobinkempe.pages.dev/case-studies/boundless-selection-lab/)
 
 ![Selection feedback experiment](docs/screenshots/desktop.jpg)
 
